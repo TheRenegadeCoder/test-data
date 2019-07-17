@@ -12,7 +12,9 @@ out into its own subsection.
 
 ### Small Cheer Sample
 
-- [Input File](cheer-8-2.txt)\*
+Up first, we have the [OSU cheer file](cheer-8-2.txt)\*. In it, you'll
+find 7 fragments which should ultimately combine into the following
+string.
 
 > Go Bucks -- Beat Michigan
 
