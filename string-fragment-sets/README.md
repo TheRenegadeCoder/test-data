@@ -16,7 +16,7 @@ Up first, we have the [OSU cheer file][1]\*. In it, you'll
 find 7 fragments which should ultimately combine into the following
 string.
 
-```
+```text
 Go Bucks -- Beat Michigan
 ```
 
@@ -26,7 +26,7 @@ Of all the files, the most error prone by far is the [Declaration of
 Independence][3]\*. In total, the file has about 1400 fragments which need
 to be reassembled into the Declaration of Independence as follows:
 
-```
+```text
 Declaration of Independence
 
                    [Adopted in Congress 4 July 1776]
