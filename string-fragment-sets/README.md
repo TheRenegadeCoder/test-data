@@ -10,12 +10,19 @@ a description of the sample and the expected result. However, due to
 the size of the results for these samples, I've chosen to break each sample
 out into its own subsection.
 
-### Small Cheer Sample
+### OSU Cheer -- Sanity Check
 
-Up first, we have the [OSU cheer file](cheer-8-2.txt)\*. In it, you'll
+Up first, we have the [OSU cheer file][1]\*. In it, you'll
 find 7 fragments which should ultimately combine into the following
 string.
 
 > Go Bucks -- Beat Michigan
 
+## Expected Errors
+
+- [Declaration of Independence -- Greedy Breaker][2]\*
+
 *\* borrowed from The Ohio State University
+
+[1]: cheer-8-2.txt
+[2]: declaration-50-8.txt
